@@ -1,2 +1,2 @@
-timeout = 60
+timeout = 45
 print("Final timeout",timeout)
