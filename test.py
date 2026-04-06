@@ -1,2 +1,2 @@
-timeout = 45
-print("Timeout changed to",timeout)
+timeout = 60
+print("Final timeout",timeout)
